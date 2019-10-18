@@ -1,4 +1,5 @@
-## SQL Query
+# SQL Query
+## Sample 1
 ### First Query
 <pre>
 	Query 1 Create the external table for the entire data of 2018: 
@@ -121,7 +122,7 @@ Predicted   0   1
 </pre>
 
 <pre>
-Sample 3:
+## Sample 3:
 
 
 <strong>Proposal: Targeted Incentives & Premium Conversions - prepared by Gotham Musalytics</strong>
