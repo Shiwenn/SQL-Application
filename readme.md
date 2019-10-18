@@ -1,3 +1,4 @@
+
 ## SQL Query
 # Sample 1:
 ### First Query
@@ -122,7 +123,7 @@ Predicted   0   1
 </pre>
 
 <pre>
-Sample 3:
+## Sample 3:
 
 
 <strong>Proposal: Targeted Incentives & Premium Conversions - prepared by Gotham Musalytics</strong>
