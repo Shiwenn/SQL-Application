@@ -122,9 +122,8 @@ Predicted   0   1
 
 </pre>
 
-<pre>
 ## Sample 3:
-
+<pre>
 
 <strong>Proposal: Targeted Incentives & Premium Conversions - prepared by Gotham Musalytics</strong>
 
