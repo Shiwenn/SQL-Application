@@ -14,9 +14,6 @@
 
 </pre>
 
-<br>
-
-
 ### Query 2: Calculate the result as it required
 <pre>
 	SELECT AVG (fare_amount/trip_distance)
@@ -27,7 +24,6 @@
 
 </pre>
 
-<br>
 
 ### Query 3:
 <pre> 
@@ -44,8 +40,6 @@
 	ORDER BY avg_rides DESC
 	LIMIT 1
 </pre>
-
-<br><br>
 
 ### Sample
 Sample 2:
@@ -125,7 +119,7 @@ Predicted   0   1
 > sink()
 
 </pre>
-<br>
+
 <pre>
 Sample 3:
 
