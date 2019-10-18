@@ -1,6 +1,6 @@
 
 ## SQL Query
-# Sample 1:
+## Sample 1:
 ### First Query
 <pre>
 	Query 1 Create the external table for the entire data of 2018: 
